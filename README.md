@@ -10,10 +10,9 @@ I am working for Computacenter as a Senior Consultant, you can find me on [![Lin
 ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python)
-![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
-![](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ## :chart_with_upwards_trend: Some stats about my Github repositories
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timgrt&hide=html&layout=compact&theme=onedark)](https://github.com/timgrt/github-readme-stats)
